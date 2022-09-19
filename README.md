@@ -1,0 +1,1 @@
+# Predicting-Isotrophic-Polarizability-of-small-molecules-using-AI-
